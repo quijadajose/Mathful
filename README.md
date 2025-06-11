@@ -15,4 +15,6 @@ https://github.com/user-attachments/assets/b976b1a6-6719-4d76-bb74-3ad7b0830cfc
 
 
 ## Pruebalo en
-https://mathful-desc0n0c1d0-5792c56848b8f41e77f219217eb9d3dd44fc3c5630d.gitlab.io
+https://mathful-dev.pages.dev/
+
+Uso los cloudflare workers para el backend
