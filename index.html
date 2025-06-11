@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="styles/zwibbler.css">
 
     <!-- Incluir Mathlive desde una CDN -->
-    <script src="https://unpkg.com/mathlive/dist/mathlive.min.js"></script>
+    <script src="https://unpkg.com/mathlive"></script>
     <!-- Incluir Desmos desde una CDN -->
     <script src="https://www.desmos.com/api/v1.5/calculator.js?apiKey=dcb31709b452b1cf9dc26972add0fda6"></script>
 
@@ -25,7 +25,7 @@
 
 <body>
     <script>
-        var BACKEND_URL = 'https://mathful-backend-production.up.railway.app';
+        var BACKEND_URL = 'https://api-mathful.quijadajosed.workers.dev';
         const remove = () => {
             document.getElementById('mathfield').value = '';
             document.getElementById('context').value = '';
